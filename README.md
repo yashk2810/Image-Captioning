@@ -15,6 +15,8 @@ You can download the weights <a href='https://github.com/yashk2810/Image-Caption
 # Examples
 
 !["mountain_snow"](https://raw.githubusercontent.com/yashk2810/Image-Captioning/master/images/first%202%20images.jpeg "mountain_snow")
+!["3 images"](https://raw.githubusercontent.com/yashk2810/Image-Captioning/master/images/3%20images.jpeg "3 images")
+!["bike"](https://raw.githubusercontent.com/yashk2810/Image-Captioning/master/images/last.jpeg "bike")
 
 # Dependencies
 
