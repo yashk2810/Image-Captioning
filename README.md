@@ -19,11 +19,6 @@ You can download the weights <a href='https://github.com/yashk2810/Image-Caption
 <table>
   <tbody>
     <tr>
-      <th>Images</th>
-      <th>Captions</th>
-    </tr>
-    
-    <tr>
       <td><img src="https://raw.githubusercontent.com/yashk2810/Image-Captioning/master/images/basketball.png"></td>
       <td><strong>Normal Max search:</strong> A man in a white uniform is and holding a ball in his hand while a man in a blue shirt is playing together to back around .</td>
 	<td><strong>Beam Search, k=3:</strong> A man in a white shirt and white shorts is playing with a soccer ball .</td>
