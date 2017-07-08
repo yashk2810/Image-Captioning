@@ -2,11 +2,11 @@
 
 Using Flickr8k dataset since the size is 1GB. MS-COCO is 14GB!
 
-Used Keras with Tensorflow backend for the code. **InceptionV3** is used for extracting the features.
+Used Keras with Tensorflow backend for the code. *InceptionV3* is used for extracting the features.
 
-I am using Beam search with **k=3, 5, 7** and a normal max search for predicting the captions of the images.
+I am using Beam search with *k=3, 5, 7* and a normal max search for predicting the captions of the images.
 
-The loss value of **2.8876** has been achieved which gives reasonable results. You can check out some examples below. The rest of the examples are in the jupyter notebook. You can run the Jupyter Notebook and try out your own examples.
+The loss value of *2.8876* has been achieved which gives reasonable results. You can check out some examples below. The rest of the examples are in the jupyter notebook. You can run the Jupyter Notebook and try out your own examples.
 
 Everything is implemented in the Jupyter notebook which will hopefully make it easier to understand the code.
 
@@ -27,7 +27,8 @@ You can download the weights <a href='https://github.com/yashk2810/Image-Caption
 				</ul>
 			</td>
 		</tr>
-
+		</tbody>
+		<tbody>
 		<tr>
 			<td><img src="https://raw.githubusercontent.com/yashk2810/Image-Captioning/master/images/snow_mountain.png"></td>
 			<td>
