@@ -6,7 +6,7 @@ Used Keras with Tensorflow backend for the code. *InceptionV3* is used for extra
 
 I am using Beam search with *k=3, 5, 7* and a normal max search for predicting the captions of the images.
 
-The loss value of *2.8876* has been achieved which gives reasonable results. You can check out some examples below. The rest of the examples are in the jupyter notebook. You can run the Jupyter Notebook and try out your own examples.
+The loss value of *2.8876* has been achieved which gives reasonable results. You can check out some examples below. The rest of the examples are in the jupyter notebook. You can run the Jupyter Notebook and try out your own examples. *unique.p* is a pickle file which contains all the unique words in the vocabulary. 
 
 Everything is implemented in the Jupyter notebook which will hopefully make it easier to understand the code.
 
