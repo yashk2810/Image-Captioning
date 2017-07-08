@@ -27,16 +27,14 @@ You can download the weights <a href='https://github.com/yashk2810/Image-Caption
 				</ul>
 			</td>
 		</tr>
-	</tbody>
 	
-	<tbody>
 		<tr>
 			<td><img src="https://raw.githubusercontent.com/yashk2810/Image-Captioning/master/images/snow_mountain.png"></td>
 			<td>
 				<ul>
 					<li><strong>Normal Max search:</strong> A man and a woman in a white jacket and white pants on a snowboard overlooking a white mountain .</li>
 					<li><strong>Beam Search, k=3:</strong> A person in a white jacket and blue pants skiing through the snow .</li>
-					<li><strong>Beam Search, k=5:</strong> A person in white pants and blue pants is in the snow .	</li>
+					<li><strong>Beam Search, k=5:</strong> A person in white pants and blue pants is in the snow .</li>
 					<li><strong>Beam Search, k=7:</strong> A man on a mountain bike does a flip in the snow .</li>
 				</ul>
 			</td>
