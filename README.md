@@ -27,8 +27,9 @@ You can download the weights <a href='https://github.com/yashk2810/Image-Caption
 				</ul>
 			</td>
 		</tr>
-		</tbody>
-		<tbody>
+	</tbody>
+	
+	<tbody>
 		<tr>
 			<td><img src="https://raw.githubusercontent.com/yashk2810/Image-Captioning/master/images/snow_mountain.png"></td>
 			<td>
