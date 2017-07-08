@@ -2,7 +2,7 @@
 
 Using Flickr8k dataset since the size is 1GB. MS-COCO is 14GB!
 
-Used Keras with Tensorflow backend for the code. *InceptionV3* is used for extracting the features.
+Used <a href="https://keras.io/">Keras</a> with <a href="https://www.tensorflow.org/">Tensorflow</a> backend for the code. *InceptionV3* is used for extracting the features.
 
 I am using Beam search with *k=3, 5, 7* and a normal max search for predicting the captions of the images.
 
