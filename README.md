@@ -14,19 +14,21 @@ You can download the weights <a href='https://github.com/yashk2810/Image-Caption
 
 # Examples
 
-<img align="left" src="https://raw.githubusercontent.com/yashk2810/Image-Captioning/master/images/basketball.png">
-
 <table>
   <tbody>
     <tr>
       <td><img src="https://raw.githubusercontent.com/yashk2810/Image-Captioning/master/images/basketball.png"></td>
-      <td><strong>Normal Max search:</strong> A man in a white uniform is and holding a ball in his hand while a man in a blue shirt is playing together to back around .</td>
-	<td><strong>Beam Search, k=3:</strong> A man in a white shirt and white shorts is playing with a soccer ball .</td>
-	<td><strong>Beam Search, k=5:</strong> A group of men in white uniforms playing basketball .</td>
-	<td><strong>Beam Search, k=7:</strong> A group of men in white uniforms playing basketball .</td>
+      <td>
+        <ul>
+          <li><strong>Normal Max search:</strong> A man in a white uniform is and holding a ball in his hand while a man in a blue shirt is playing together to back around .</li>
+          <li><strong>Beam Search, k=3:</strong> A man in a white shirt and white shorts is playing with a soccer ball .</li>
+	  <li><strong>Beam Search, k=5:</strong> A group of men in white uniforms playing basketball .</li>
+	  <li><strong>Beam Search, k=7:</strong> A group of men in white uniforms playing basketball .</li>
+        </ul>
+      </td>
     </tr>
     
-    	
+    
     
   </tbody>
 </table>
