@@ -15,22 +15,32 @@ You can download the weights <a href='https://github.com/yashk2810/Image-Caption
 # Examples
 
 <table>
-  <tbody>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/yashk2810/Image-Captioning/master/images/basketball.png"></td>
-      <td>
-        <ul>
-          <li><strong>Normal Max search:</strong> A man in a white uniform is and holding a ball in his hand while a man in a blue shirt is playing together to back around .</li>
-          <li><strong>Beam Search, k=3:</strong> A man in a white shirt and white shorts is playing with a soccer ball .</li>
-	  <li><strong>Beam Search, k=5:</strong> A group of men in white uniforms playing basketball .</li>
-	  <li><strong>Beam Search, k=7:</strong> A group of men in white uniforms playing basketball .</li>
-        </ul>
-      </td>
-    </tr>
-    
-    
-    
-  </tbody>
+	<tbody>
+		<tr>
+			<td><img src="https://raw.githubusercontent.com/yashk2810/Image-Captioning/master/images/basketball.png"></td>
+			<td>
+				<ul>
+					<li><strong>Normal Max search:</strong> A man in a white uniform is and holding a ball in his hand while a man in a blue shirt is playing together to back around .</li>
+					<li><strong>Beam Search, k=3:</strong> A man in a white shirt and white shorts is playing with a soccer ball .</li>
+					<li><strong>Beam Search, k=5:</strong> A group of men in white uniforms playing basketball .</li>
+					<li><strong>Beam Search, k=7:</strong> A group of men in white uniforms playing basketball .</li>
+				</ul>
+			</td>
+		</tr>
+
+		<tr>
+			<td><img src="https://raw.githubusercontent.com/yashk2810/Image-Captioning/master/images/snow_mountain.png"></td>
+			<td>
+				<ul>
+					<li><strong>Normal Max search:</strong> A man and a woman in a white jacket and white pants on a snowboard overlooking a white mountain .</li>
+					<li><strong>Beam Search, k=3:</strong> A person in a white jacket and blue pants skiing through the snow .</li>
+					<li><strong>Beam Search, k=5:</strong> A person in white pants and blue pants is in the snow .	</li>
+					<li><strong>Beam Search, k=7:</strong> A man on a mountain bike does a flip in the snow .</li>
+				</ul>
+			</td>
+		</tr>
+		
+	</tbody>
 </table>
 
 
