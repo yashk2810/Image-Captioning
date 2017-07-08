@@ -10,36 +10,36 @@ The loss value of **2.8876** has been achieved which gives reasonable results. Y
 
 Everything is implemented in the Jupyter notebook which will hopefully make it easier to understand the code.
 
+You can download the weights <a href='https://github.com/yashk2810/Image-Captioning/raw/master/weights/time_inceptionV3_2.8876_loss.h5'>here</a>.
+
 # Examples
 
 <img align="left" src="https://raw.githubusercontent.com/yashk2810/Image-Captioning/master/images/basketball.png">
-<br />
-<br />
-**Normal Max search:** A man in a white uniform is and holding a ball in his hand while a man in a blue shirt is playing together to back around .
-<br />
-**Beam Search, k=3:** A man in a white shirt and white shorts is playing with a soccer ball .
-<br />
-**Beam Search, k=5:** A group of men in white uniforms playing basketball .
-<br />
-**Beam Search, k=7:** A group of men in white uniforms playing basketball .
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
-<img align="left" src="https://raw.githubusercontent.com/yashk2810/Image-Captioning/master/images/snow_mountain.png">
-**Normal Max search:** A man and a woman in a white jacket and white pants on a snowboard overlooking a white mountain .
-<br />
-**Beam Search, k=3:** A person in a white jacket and blue pants skiing through the snow .
-<br />
-**Beam Search, k=5:** A person in white pants and blue pants is in the snow .
-<br />
-**Beam Search, k=7:** A man on a mountain bike does a flip in the snow .
-<br />
+<table>
+  <tbody>
+    <tr>
+      <th>Images</th>
+      <th>Captions</th>
+    </tr>
+    
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/yashk2810/Image-Captioning/master/images/basketball.png"></td>
+      <td>
+        <ul>
+          <li><strong>Normal Max search:</strong> A man in a white uniform is and holding a ball in his hand while a man in a blue shirt is playing together to back around .</li>
+          <li><strong>Beam Search, k=3:</strong> A man in a white shirt and white shorts is playing with a soccer ball .</li>
+	  <li><strong>Beam Search, k=5:</strong> A group of men in white uniforms playing basketball .</li>
+	  <li><strong>Beam Search, k=7:</strong> A group of men in white uniforms playing basketball .</li>
+        </ul>
+      </td>
+    </tr>
+    
+    
+    
+  </tbody>
+</table>
+
 
 # Dependencies
 
